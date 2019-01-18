@@ -1,0 +1,21 @@
+{
+    "name": "zh-dirty/dirty-words",
+    "description": "This is a dirty words class for php",
+    "type": "library",
+    "license": "MIT",
+    "keywords":[
+        "dirty",
+        "dirty words",
+        "zh-dirty"
+    ],
+    "authors": [
+        {
+            "name": "zhouheng",
+            "email": "zhouheng.25520.sc@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
